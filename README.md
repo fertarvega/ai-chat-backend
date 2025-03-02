@@ -1,6 +1,4 @@
-```markdown:README.md
 # AI Chat Backend
-
 A Node.js backend service that provides API endpoints for AI chat functionality using Groq's LLM API.
 
 ## Features
